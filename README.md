@@ -97,25 +97,90 @@ Sharpening API design & database architecture
 
 <div align="center">
 
-## Languages & Frameworks
+### 📱 Languages & Frameworks
 
-<img src="https://cdn.simpleicons.org/react" width="65" />
-<img src="https://cdn.simpleicons.org/typescript" width="65" />
-<img src="https://cdn.simpleicons.org/javascript" width="65" />
-<img src="https://cdn.simpleicons.org/nextdotjs/white" width="65" />
-<img src="https://cdn.simpleicons.org/html5" width="65" />
-<img src="https://cdn.simpleicons.org/css3" width="65" />
-<img src="https://cdn.simpleicons.org/tailwindcss" width="65" />
-<img src="https://cdn.simpleicons.org/github/white" width="65" />
-<img src="https://cdn.simpleicons.org/git" width="65" />
-<img src="https://cdn.simpleicons.org/docker" width="65" />
-<img src="https://cdn.simpleicons.org/python" width="65" />
+<table>
+<tr>
 
-</div>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/react" width="50"/>
+<br><br>
+<b>React</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/typescript" width="50"/>
+<br><br>
+<b>TypeScript</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/javascript" width="50"/>
+<br><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/nextdotjs/white" width="50"/>
+<br><br>
+<b>Next.js</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/html5" width="50"/>
+<br><br>
+<b>HTML5</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/css3" width="50"/>
+<br><br>
+<b>CSS3</b>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/tailwindcss" width="50"/>
+<br><br>
+<b>Tailwind</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/expo/white" width="50"/>
+<br><br>
+<b>Expo</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/github/white" width="50"/>
+<br><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/git" width="50"/>
+<br><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/docker" width="50"/>
+<br><br>
+<b>Docker</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/python" width="50"/>
+<br><br>
+<b>Python</b>
+</td>
+
+</tr>
+</table>
 
 ---
-
-<div align="center">
 
 ### 📱 Mobile Development
 
