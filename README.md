@@ -431,46 +431,53 @@ Cloudflare
 </div>
 ## 📁 Professional Projects
 
-<table align="center" border="0" width="100%">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🚚 FastFly — Courier Management System
-*Enterprise-grade logistics & delivery platform*
+> **Enterprise-grade logistics & delivery platform**
 
-**Core Features:**
-- 📦 Shipment Management
-- 🏍️ Rider Management
-- 👥 Customer Management
-- 💰 COD (Cash on Delivery) Management
-- 📊 Analytics Dashboard
-- 📍 Real-time Tracking System
+#### 🚀 Key Features
+* 📦 **Shipment Management** — Complete order lifecycle tracking
+* 🏍️ **Rider Management** — Fleet & route dispatching
+* 👥 **Customer Portal** — Self-service & history tracking
+* 💰 **COD Settlement** — Automated Cash-on-Delivery management
+* 📊 **Analytics Dashboard** — Real-time performance insights
+* 📍 **Live Tracking** — End-to-end status visibility
 
-**Stack:** Next.js · TypeScript · Node.js · Express · MongoDB
+<br/>
+
+**🛠️ Tech Stack**  
+`Next.js` · `TypeScript` · `Node.js` · `Express` · `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📱 FastFly Rider App
-*Cross-platform mobile app for delivery riders*
+> **Cross-platform mobile app for delivery riders**
 
-**Built With:**
-- React Native
-- Expo Router
-- TypeScript
-- Secure API Integration & Authentication
+#### 🚀 Key Features
+* ⚡ **Real-time Order Updates** — Live status sync with admin
+* 🗺️ **In-App Navigation** — Optimized delivery routes
+* 🔒 **Secure Auth** — JWT-based authentication
+* 📲 **Instant Notifications** — Push alerts for new orders
+* 📊 **Earnings Overview** — Rider trip & payout logs
 
-**Highlights:** Real-time order updates, navigation, and delivery status sync with the admin dashboard.
+<br/>
+
+**🛠️ Tech Stack**  
+`React Native` · `Expo Router` · `TypeScript` · `REST API`
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Status-In_Active_Development-FF6B00?style=for-the-badge&labelColor=0B192C"/>
-</div>
+<br/>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-In_Active_Development-FF6B00?style=for-the-badge&logo=github&labelColor=0B192C"/>
+</div>
 
 ## 🏅 Achievements
 
