@@ -89,9 +89,6 @@ Sharpening API design & database architecture
 </div>
 
 ---
-
----
-
 ## 🛠️ Tech Stack & Expertise
 
 <div align="center">
