@@ -91,49 +91,279 @@ Sharpening API design & database architecture
 
 ---
 
+---
+
 ## 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
-**Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite&theme=dark" />
+## Languages & Frameworks
 
-**Mobile Development**
-<br>
-<img src="https://skillicons.dev/icons?i=react,expo&theme=dark" />
-<img src="https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=FF6B00"/>
-
-**Backend & Databases**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark" />
-
-**Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
-
-**Tools & Deployment**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
-<br>
-<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
-
-**Libraries & Frameworks**
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
-<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/react" width="65" />
+<img src="https://cdn.simpleicons.org/typescript" width="65" />
+<img src="https://cdn.simpleicons.org/javascript" width="65" />
+<img src="https://cdn.simpleicons.org/nextdotjs/white" width="65" />
+<img src="https://cdn.simpleicons.org/html5" width="65" />
+<img src="https://cdn.simpleicons.org/css3" width="65" />
+<img src="https://cdn.simpleicons.org/tailwindcss" width="65" />
+<img src="https://cdn.simpleicons.org/github/white" width="65" />
+<img src="https://cdn.simpleicons.org/git" width="65" />
+<img src="https://cdn.simpleicons.org/docker" width="65" />
+<img src="https://cdn.simpleicons.org/python" width="65" />
 
 </div>
 
 ---
 
+<div align="center">
+
+### 📱 Mobile Development
+
+<table>
+<tr>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/react" width="55"/>
+<br><br>
+<b>React Native</b>
+<br>
+<i>Expert</i>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/expo/white" width="55"/>
+<br><br>
+<b>Expo</b>
+<br>
+<i>Advanced</i>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/typescript" width="55"/>
+<br><br>
+<b>TypeScript</b>
+<br>
+<i>Expert</i>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/javascript" width="55"/>
+<br><br>
+<b>JavaScript</b>
+<br>
+<i>Expert</i>
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🌐 Web Development
+
+<table>
+<tr>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/react" width="55"/>
+<br><br>
+<b>React.js</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/nextdotjs/white" width="55"/>
+<br><br>
+<b>Next.js</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/html5" width="55"/>
+<br><br>
+<b>HTML5</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/css3" width="55"/>
+<br><br>
+<b>CSS3</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🎨 State Management & UI
+
+<table>
+<tr>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/tailwindcss" width="55"/>
+<br><br>
+Tailwind CSS
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" width="55"/>
+<br><br>
+Zustand
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/redux" width="55"/>
+<br><br>
+Redux
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/mui" width="55"/>
+<br><br>
+Material UI
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/reacthookform" width="55"/>
+<br><br>
+React Hook Form
+</td>
+
+</tr>
+</table>
+
+---
+
+### ⚙️ Backend & Database
+
+<table>
+<tr>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/nodedotjs" width="55"/>
+<br><br>
+Node.js
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/express/white" width="55"/>
+<br><br>
+Express
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/mongodb" width="55"/>
+<br><br>
+MongoDB
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/mysql" width="55"/>
+<br><br>
+MySQL
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/firebase" width="55"/>
+<br><br>
+Firebase
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/supabase" width="55"/>
+<br><br>
+Supabase
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<table>
+<tr>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/python" width="55"/>
+<br><br>
+Python
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/numpy" width="55"/>
+<br><br>
+NumPy
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/pandas" width="55"/>
+<br><br>
+Pandas
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/tensorflow" width="55"/>
+<br><br>
+TensorFlow
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/scikitlearn" width="55"/>
+<br><br>
+Scikit Learn
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🧰 Tools & DevOps
+
+<table>
+<tr>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/github/white" width="55"/>
+<br><br>
+GitHub
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/git" width="55"/>
+<br><br>
+Git
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/docker" width="55"/>
+<br><br>
+Docker
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
+<br><br>
+VS Code
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/vercel/white" width="55"/>
+<br><br>
+Vercel
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/cloudflare" width="55"/>
+<br><br>
+Cloudflare
+</td>
+
+</tr>
+</table>
+
+</div>
 ## 📁 Professional Projects
 
 <table align="center" border="0" width="100%">
