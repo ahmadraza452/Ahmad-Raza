@@ -7,7 +7,6 @@
 </a>
 
 <br><br>
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ahmadraza452&label=PROFILE+VIEWS&color=FF6B00&style=for-the-badge&labelColor=0B192C" />
 <a href="https://github.com/ahmadraza452">
